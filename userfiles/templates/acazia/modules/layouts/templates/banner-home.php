@@ -20,7 +20,7 @@ description: Banner Home
             <span class="cursor typer-cursor" data-owner="first-typer" data-cursordisplay="|" style="color: #FF9500; font-weight: 400;"></span><br>
             <span class="trn">development team</span>
         </h1>
-        <p class="banner-des trn">In weeks, not months. Tell us about your needs.</p>
+        <p class="banner-des trn">In weeks, not months. Tell us about your needs 123.</p>
         <div class="banner-btn-group flex">
             <a class="primary long shadow button-component" href="portfolio-app.html" id="">
                 <span class="button-title trn">See our Works</span>
