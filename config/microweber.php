@@ -1,6 +1,6 @@
 <?php return array (
   'version' => '1.2.8',
-  'install_default_template' => 'acazia',
+  'install_default_template' => 'new-world',
   'install_default_template_content' => 1,
   'compile_assets' => 1,
   'disable_model_cache' => 0,
