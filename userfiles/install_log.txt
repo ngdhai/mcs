@@ -1,3 +1,0 @@
-Preparing to install
-Saving config
-Saving ready config
